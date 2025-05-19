@@ -1,0 +1,15 @@
+# Ignore data files (if they are large)
+data/raw/
+data/processed/
+
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache and IDE files
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
+.DS_Store
+.idea/
+.vscode/25.0.1
+add_files.sh
